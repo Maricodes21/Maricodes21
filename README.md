@@ -6,8 +6,10 @@ I’m a QA engineer by day and a software developer on my own projects. I build 
 
 | Project | What it does |
 | --- | --- |
-| [Flappyfy](https://github.com/Maricodes21/Flappify) | Turns a local audio file into a browser rhythm game. Tap on the beat, fly through pipes, and improve your track mastery. |
+| [Flappyfy](https://github.com/Maricodes21/Flappify) | A browser rhythm flight game with a Spotify listening prototype for playlists, top tracks, and recent listening. Pick a catalog track or a local file and fly through a course that changes with the song. |
 | [Luminary](https://github.com/Maricodes21/Luminary---All-in-one-life-Dashboard) | A mobile-first dashboard for commitments, reflection, meals, movement, money, and music. |
 | [Celebrate Invitation Studio](https://github.com/Maricodes21/invitation-studio) | A browser-based invitation builder that stores the design and event details in a shareable guest link. |
 
-[![Flappyfy gameplay](https://raw.githubusercontent.com/Maricodes21/Flappify/main/docs/screenshots/gameplay.png)](https://github.com/Maricodes21/Flappify)
+| Spotify library · sample data | Neon Synthwave gameplay |
+| --- | --- |
+| [![Flappyfy Spotify playlist library](https://raw.githubusercontent.com/Maricodes21/Flappify/main/docs/screenshots/spotify-library.png)](https://github.com/Maricodes21/Flappify#spotify-listening) | [![Flappyfy Neon Synthwave level](https://raw.githubusercontent.com/Maricodes21/Flappify/main/docs/screenshots/gameplay.png)](https://github.com/Maricodes21/Flappify#level-designs) |
